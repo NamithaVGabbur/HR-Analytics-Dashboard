@@ -1,2 +1,26 @@
 # HR-Analytics-Dashboard
-HR Analytics Dashboard-The HR Data Analysis Dashboard project is specifically designed for HR managers and business leaders, offering a comprehensive platform to thoroughly analyze and manage employee data. 
+HR Analytics Dashboard
+
+Project Name:
+HR Analytics Dashboard project using "Power BI, Tableau, Excel, and SQL.".
+
+Let’s Connect:
+LinkedIn:  https://www.linkedin.com/in/namitha-gabbur-36390123b/
+
+Description:
+The HR Data Analysis Dashboard project is designed for HR managers and business leaders, offering a comprehensive platform to thoroughly analyze and manage employee data. The primary goal is to empower HR professionals by providing them with the tools to make well-informed decisions related to employee retention, development, and recruitment strategies.
+
+It showcases intricate charts presenting employee distribution and attrition rates categorized by gender, age groups, job satisfaction levels, and educational backgrounds. These charts are equipped with legends and interactive filters, allowing HR managers to delve deeper into the data and acquire comprehensive insights.
+
+By visualizing these key metrics, HR professionals can make data-driven decisions, optimize workforce management, and foster a diverse and inclusive workplace environment.
+This project also aimed at creating compelling and interactive dashboards using visualization tools such as PowerBI, Tableau, Excel charts, etc., and extracting KPIs using MySQL.
+
+
+Tools Used:
+
+•	Excel
+•	Tableau
+•	Power BI
+•	SQL
+
+![image](https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/c4bda184-6d34-4a6c-a97f-be06b4acfcdf)
