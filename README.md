@@ -28,4 +28,8 @@ Using Excel:
 
 ![Screenshot (43)](https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/44c9c014-d4fe-4b2e-92cb-e8d4fc0c944c)
 
+Using PowerBI:
+![image](https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/7374dda5-891f-4807-942e-7f5ce9ae7340)
+
+
 
