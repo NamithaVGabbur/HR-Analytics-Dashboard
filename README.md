@@ -23,3 +23,9 @@ Tools Used:
 •	Power BI
 •	SQL
 
+Snapshots:
+Using Excel:
+
+![Screenshot (43)](https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/44c9c014-d4fe-4b2e-92cb-e8d4fc0c944c)
+
+
