@@ -31,6 +31,12 @@ Using Excel:
 Using PowerBI:
 ![Screenshot (44)](https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/2c93272a-24b8-46b5-bb22-7ddfb0c2060b)
 
+Using Tableau:
+<img width="1496" alt="Screenshot 2024-03-16 at 2 32 39 AM" src="https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/ee191f49-00c0-4f4c-a522-0bfbebd35f93">
+
+
+
+
 
 
 
