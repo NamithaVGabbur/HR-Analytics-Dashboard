@@ -34,6 +34,8 @@ Using PowerBI:
 Using Tableau:
 <img width="1496" alt="Screenshot 2024-03-16 at 2 32 39 AM" src="https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/ee191f49-00c0-4f4c-a522-0bfbebd35f93">
 
+<img width="1496" alt="Screenshot 2024-03-16 at 2 32 55 AM" src="https://github.com/NamithaVGabbur/HR-Analytics-Dashboard/assets/155875958/1aa9b9f5-efbd-4b6f-b6fc-669b89c0cd6b">
+
 
 
 
